@@ -1,3 +1,4 @@
 Nama : I Wayan Arigayu Saputra
 NIM : F55123044
-KElas : Teknik INformatika-B
+Kel
+as : Teknik INformatika-B
